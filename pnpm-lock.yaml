@@ -1,0 +1,11 @@
+lockfileVersion: 5.4
+
+importers:
+
+  .:
+    specifiers:
+      '@pnpm-kambrium/core': link:../pnpm-kambrium/npm/packages/core
+      '@pnpm-kambrium/create': link:../pnpm-kambrium/npm/packages/create
+    devDependencies:
+      '@pnpm-kambrium/core': link:../pnpm-kambrium/npm/packages/core
+      '@pnpm-kambrium/create': link:../pnpm-kambrium/npm/packages/create
