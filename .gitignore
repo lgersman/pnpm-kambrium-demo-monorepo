@@ -1,0 +1,6 @@
+node_modules
+dist
+.pnpm-debug.log
+build
+/docker/images/*.tgz
+/wordpress/*/*.zip
