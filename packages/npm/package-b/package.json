@@ -8,6 +8,6 @@
   },
   "license": "MIT",
   "dependencies": {
-    "package-b" : "workspace:*"
+    "@pnpm-kambrium-demo-monorepo/package-a": "workspace:*"
   }
 }

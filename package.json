@@ -1,6 +1,6 @@
 {
   "name": "pnpm-kambrium-demo-monorepo",
-  "private":"true",
+  "private": "true",
   "version": "1.0.0",
   "description": "demo repository using pnpm-kambrium",
   "scripts": {},
@@ -19,7 +19,20 @@
   "devDependencies": {
     "@changesets/changelog-github": "0.4.7",
     "@changesets/cli": "2.25.2",
-    "@pnpm-kambrium/core": "link:../pnpm-kambrium/npm/packages/core",
-    "@pnpm-kambrium/create": "link:../pnpm-kambrium/npm/packages/create"
+    "@pnpm-kambrium/core": "link:../pnpm-kambrium/packages/npm/core",
+    "@pnpm-kambrium/create": "link:../pnpm-kambrium/packages/npm/create",
+    "eslint": "8.26.0",
+    "eslint-config-prettier": "8.5.0",
+    "eslint-plugin-import": "2.26.0",
+    "eslint-plugin-prettier": "4.2.1",
+    "eslint-plugin-react": "7.31.10",
+    "eslint-plugin-react-hooks": "4.6.0",
+    "eslint-plugin-simple-import-sort": "8.0.0",
+    "@prettier/plugin-php": "^0.19.2",
+    "prettier": "2.7.1",
+    "stylelint": "^14.5.1",
+    "stylelint-config-prettier": "^9.0.3",
+    "stylelint-config-recommended-scss": "^5.0.2",
+    "stylelint-scss": "^4.1.0"
   }
 }

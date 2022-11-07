@@ -1,6 +1,6 @@
 # see https://pnpm.io/pnpm-workspace_yaml
 packages:
-  - 'npm/packages/*'
-  - 'docker/images/*'
-  - 'wordpress/plugins/*'
-  - 'wordpress/themes/*'
+  - 'packages/npm/*'
+  - 'packages/docker/*'
+  - 'packages/wordpress/plugins/*'
+  - 'packages/wordpress/themes/*'
