@@ -1,0 +1,13 @@
+{
+  "name": "@pnpm-kambrium-demo-monorepo/package-b",
+  "version": "1.0.0",
+  "keywords": [],
+  "author": {
+    "email": "lars.gersmann@cm4all.com",
+    "name": "lars gersmann"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "package-b" : "workspace:*"
+  }
+}
