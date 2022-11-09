@@ -5,5 +5,8 @@
     "email": "lars.gersmann@cm4all.com",
     "name": "lars gersmann"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
 }
