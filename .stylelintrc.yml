@@ -1,8 +1,7 @@
+#
+# boilerplate .stylelintrc.yml
+#
 extends:
-  - stylelint-config-recommended-scss
-  - stylelint-config-prettier
+  - "@pnpm-kambrium/core/presets/default/.stylelintrc.yml"
 #  - "@wordpress/stylelint-config"
 #  - "@wordpress/stylelint-config/scss"
-rules:
-  color-named: null
-  selector-class-pattern: null
