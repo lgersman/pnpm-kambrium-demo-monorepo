@@ -1,5 +1,5 @@
 #
-# boilerplate .stylelintrc.yml
+# boilerplate stylelint configuration
 #
 extends:
   - "@pnpm-kambrium/core/presets/default/.stylelintrc.yml"

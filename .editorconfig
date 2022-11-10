@@ -1,3 +1,11 @@
+#
+# default editor config 
+#
+# this file is usually soft-linked to your monorepo root. 
+# if you want to customize your .editorconfig simply replace the soft-link to this file 
+# in your project with your own file.
+#
+
 # EditorConfig: http://EditorConfig.org
 # EditorConfig Properties: https://github.com/editorconfig/editorconfig/wiki/EditorConfig-Properties
 
