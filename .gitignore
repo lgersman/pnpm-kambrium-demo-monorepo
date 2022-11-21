@@ -4,3 +4,4 @@ dist
 build
 /docker/images/*.tgz
 /wordpress/*/*.zip
+/.pnpm-store
