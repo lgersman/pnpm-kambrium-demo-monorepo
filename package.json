@@ -1,10 +1,10 @@
 {
-  "name": "pnpm-kambrium-demo-monorepo",
+  "name": "pnpmkambrium-demo-monorepo",
   "private": "true",
   "version": "1.0.0",
-  "description": "demo repository using pnpm-kambrium",
+  "description": "demo repository using pnpmkambrium",
   "scripts": {
-    "prepare": "npx -y only-allow pnpm && git config core.hookspath ./node_modules/@pnpm-kambrium/core/presets/default/.githooks",
+    "prepare": "npx -y only-allow pnpm && git config core.hookspath ./node_modules/@pnpmkambrium/core/presets/default/.githooks",
     "make": "pnpm kambrium-make"
   },
   "keywords": [
@@ -16,15 +16,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/lgersman/pnpm-kambrium-demo-monorepo"
+    "url": "https://github.com/lgersman/pnpmkambrium-demo-monorepo"
   },
   "license": "MIT",
   "devDependencies": {
     "@changesets/cli": "2.25.2",
     "@commitlint/cli": "17.2.0",
     "@commitlint/config-conventional": "17.2.0",
-    "@pnpm-kambrium/core": "link:../pnpm-kambrium/packages/npm/core",
-    "@pnpm-kambrium/create": "link:../pnpm-kambrium/packages/npm/create",
+    "@pnpmkambrium/core": "link:../pnpmkambrium/packages/npm/core",
+    "@pnpmkambrium/create": "link:../pnpmkambrium/packages/npm/create",
     "@prettier/plugin-php": "^0.19.2",
     "eslint": "8.26.0",
     "eslint-config-prettier": "8.5.0",

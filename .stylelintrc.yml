@@ -2,6 +2,6 @@
 # boilerplate stylelint configuration
 #
 extends:
-  - "@pnpm-kambrium/core/presets/default/.stylelintrc.yml"
+  - "@pnpmkambrium/core/presets/default/.stylelintrc.yml"
 #  - "@wordpress/stylelint-config"
 #  - "@wordpress/stylelint-config/scss"

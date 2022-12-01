@@ -1,5 +1,5 @@
 {
-  "name": "@pnpm-kambrium-demo-monorepo/package-a",
+  "name": "@pnpmkambrium-demo-monorepo/package-a",
   "version": "1.0.0",
   "author": {
     "email": "lars.gersmann@cm4all.com",

@@ -1,4 +1,4 @@
-# Code of Conduct - pnpm-kambrium-demo-monorepo
+# Code of Conduct - pnpmkambrium-demo-monorepo
 
 ## Our Pledge
 

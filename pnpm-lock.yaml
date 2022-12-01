@@ -7,8 +7,8 @@ importers:
       '@changesets/cli': 2.25.2
       '@commitlint/cli': 17.2.0
       '@commitlint/config-conventional': 17.2.0
-      '@pnpm-kambrium/core': link:../pnpm-kambrium/packages/npm/core
-      '@pnpm-kambrium/create': link:../pnpm-kambrium/packages/npm/create
+      '@pnpmkambrium/core': link:../pnpmkambrium/packages/npm/core
+      '@pnpmkambrium/create': link:../pnpmkambrium/packages/npm/create
       '@prettier/plugin-php': ^0.19.2
       eslint: 8.26.0
       eslint-config-prettier: 8.5.0
@@ -28,8 +28,8 @@ importers:
       '@changesets/cli': 2.25.2
       '@commitlint/cli': 17.2.0
       '@commitlint/config-conventional': 17.2.0
-      '@pnpm-kambrium/core': link:../pnpm-kambrium/packages/npm/core
-      '@pnpm-kambrium/create': link:../pnpm-kambrium/packages/npm/create
+      '@pnpmkambrium/core': link:../pnpmkambrium/packages/npm/core
+      '@pnpmkambrium/create': link:../pnpmkambrium/packages/npm/create
       '@prettier/plugin-php': 0.19.2_prettier@2.7.1
       eslint: 8.26.0
       eslint-config-prettier: 8.5.0_eslint@8.26.0
@@ -51,9 +51,9 @@ importers:
 
   packages/npm/package-b:
     specifiers:
-      '@pnpm-kambrium-demo-monorepo/package-a': workspace:*
+      '@pnpmkambrium-demo-monorepo/package-a': workspace:*
     dependencies:
-      '@pnpm-kambrium-demo-monorepo/package-a': link:../package-a
+      '@pnpmkambrium-demo-monorepo/package-a': link:../package-a
 
 packages:
 
