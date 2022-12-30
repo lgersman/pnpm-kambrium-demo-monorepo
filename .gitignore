@@ -1,7 +1,14 @@
+#
+# default git ignore configuration
+# 
+# this file is usually soft-linked to your monorepo root. 
+# if you want to customize your .gitignore simply replace the soft-link to this file 
+# in your project with your own file.
+#
 node_modules
 dist
 .pnpm-debug.log
 build
-/docker/images/*.tgz
-/wordpress/*/*.zip
+/docker/*.tgz
+build-info
 /.pnpm-store
