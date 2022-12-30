@@ -4,8 +4,7 @@
   "version": "1.0.0",
   "description": "demo repository using pnpmkambrium",
   "scripts": {
-    "prepare": "npx -y only-allow pnpm && git config core.hookspath ./node_modules/@pnpmkambrium/core/presets/default/.githooks",
-    "make": "pnpm kambrium-make"
+    "prepare": "npx -y only-allow pnpm && git config core.hookspath ./node_modules/@pnpmkambrium/core/presets/default/.githooks"
   },
   "keywords": [
     "pnpm"
