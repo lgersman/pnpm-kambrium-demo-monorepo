@@ -3,5 +3,5 @@ packages:
   - '.'
   - 'packages/npm/*'
   - 'packages/docker/*'
-  - 'packages/wordpress/plugins/*'
-  - 'packages/wordpress/themes/*'
+  - 'packages/wp-plugin/*'
+  - 'packages/wp-theme/*'
