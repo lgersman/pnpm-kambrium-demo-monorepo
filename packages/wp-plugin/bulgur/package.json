@@ -1,0 +1,21 @@
+{
+	"name": "@pnpmkambrium-demo-monorepo/bulgur",
+	"version": "0.1.0",
+	"description": "Example block scaffolded with Create Block tool.",
+	"author": "Lars, Hank",
+	"license": "MIT-2",
+	"homepage": "https://github.com/lgersman/pnpmkambrium",
+	"main": "build/index.js",
+	"scripts": {
+		"build": "wp-scripts build",
+		"format": "wp-scripts format",
+		"lint:css": "wp-scripts lint-style",
+		"lint:js": "wp-scripts lint-js",
+		"packages-update": "wp-scripts packages-update",
+		"plugin-zip": "wp-scripts plugin-zip",
+		"start": "wp-scripts start"
+	},
+	"devDependencies": {
+		"@wordpress/scripts": "^25.5.1"
+	}
+}
