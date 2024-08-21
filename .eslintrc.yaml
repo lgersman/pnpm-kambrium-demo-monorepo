@@ -1,5 +1,0 @@
-#
-# boilerplate eslint config
-#
-extends:
-  - './node_modules/@pnpmkambrium/core/presets/default/.eslintrc.yaml'

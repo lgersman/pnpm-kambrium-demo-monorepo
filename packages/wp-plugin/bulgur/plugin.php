@@ -1,14 +1,14 @@
 <?php
 /**
- * Plugin Name:       Kambrium Bulgur
- * Plugin URI:        https://github.com/lgersman/pnpmkambrium
- * Description:       Example block scaffolded with Create Block tool.
+ * Plugin Name: bulgur
+ * Plugin URI: https://github.com/lgersman/pnpmkambrium
+ * Description: Example block scaffolded with Create Block tool.
  * Requires at least: 6.1
- * Requires PHP:      7.0
- * Version:           0.1.0
- * Author:            Lars, Hank
- * License:           MIT-2
- * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
+ * Requires PHP: 
+ * Version: 0.1.0
+ * Author: lars gersmann
+ * License: MIT-2
+ * License URI: https://opensource.org/licenses/MIT-2
  * Text Domain:       bulgur
  * Domain Path:       kambrium-bulgur
  *
