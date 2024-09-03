@@ -17,8 +17,8 @@ import './style.scss';
 /**
  * Internal dependencies
  */
-import Edit from './edit';
-import save from './save';
+import Edit from './edit/edit.js';
+import save from './edit/save.js';
 import metadata from './block.json';
 
 /**

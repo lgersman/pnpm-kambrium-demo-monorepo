@@ -21,8 +21,7 @@
  *
  * @see https://developer.wordpress.org/reference/functions/register_block_type/
  */
-function kambrium_bulgur_bulgur_block_init()
-{
-	register_block_type(__DIR__ . '/build');
-}
-add_action('init', 'kambrium_bulgur_bulgur_block_init');
+
+defined('ABSPATH') || exit();
+
+\add_action('init', fn() => \register_block_type(__DIR__ . '/build'));
