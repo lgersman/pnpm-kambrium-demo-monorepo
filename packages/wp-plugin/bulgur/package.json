@@ -3,6 +3,5 @@
 	"version": "0.1.0",
 	"description": "Example block scaffolded with Create Block tool.",
 	"license": "MIT-2",
-	"homepage": "https://github.com/lgersman/pnpmkambrium",
-	"main": "build/index.js"
+	"homepage": "https://github.com/lgersman/pnpmkambrium"
 }
