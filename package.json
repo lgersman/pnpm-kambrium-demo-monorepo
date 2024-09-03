@@ -38,6 +38,7 @@
     "stylelint": "^16.9.0",
     "stylelint-config-prettier": "^9.0.5",
     "stylelint-config-recommended-scss": "^14.1.0",
-    "stylelint-scss": "^6.5.1"
+    "stylelint-scss": "^6.5.1",
+    "@wordpress/scripts": "28.6.0"
   }
 }
